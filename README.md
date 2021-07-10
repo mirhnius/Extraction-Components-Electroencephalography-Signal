@@ -1,0 +1,2 @@
+# Extraction_components_Electroencephalography_signal
+Extraction target components of Electroencephalography signals using Common Spatial Subspace Decomposition.
